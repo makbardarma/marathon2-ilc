@@ -7,32 +7,41 @@ body{
 button{
     align-content: end;
     position: absolute;
-    top:330px;
-    left: 140px;
+    top:380px;
+    left: 170px;
     background-color:dodgerblue;
 }
 
 h1,h3{
     font-style: italic;
-    font-size: 20px;
+    font-size: 25px;
+
+    
+
+    
+    
+    
 
 }
 
-input h{
+input {
     position: absolute;
-    left:140px ;
+    left:170px ;
     width: 100x;
     height: 20px;
 }
 
 select{
     position: absolute;
-    left: 140px;
+    left: 170px;
 }
 
 h1{
     font-style: italic;
-    font-size:50px;   
+    font-size:50px; 
+    margin:30px;  
+    
+    
 }
  
     
