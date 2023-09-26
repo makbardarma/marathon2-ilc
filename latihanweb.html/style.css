@@ -1,0 +1,38 @@
+body{
+    background-image: url(momo.png.jpg);
+    background-size:cover;
+    background-position:center ;
+}
+
+button{
+    align-content: end;
+    position: absolute;
+    top:330px;
+    left: 140px;
+    background-color:dodgerblue;
+}
+
+h1,h3{
+    font-style: italic;
+    font-size: 20px;
+
+}
+
+input h{
+    position: absolute;
+    left:140px ;
+    width: 100x;
+    height: 20px;
+}
+
+select{
+    position: absolute;
+    left: 140px;
+}
+
+h1{
+    font-style: italic;
+    font-size:50px;   
+}
+ 
+    
